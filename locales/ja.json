@@ -1,0 +1,19 @@
+{
+  "hello_world": "こんにちは世界",
+  "active_game_notice": "まだアクティブな問題があります！返信して答えてください。",
+  "game_title": "🔥 *写真を当てて！*",
+  "game_instruction": "📸 上の写真を見てください！",
+  "game_hint": "💡 *ヒント:* {{hint}}",
+  "game_time_limit": "🕒 回答時間: 60秒",
+  "game_reply_instruction": "💭 このメッセージに返信して答えてください！",
+  "time_up": "⏰ 時間切れです！\n答え: *{{answer}}*",
+  "try_again_button": "もう一度試す",
+  "fetch_error": "🪵 おっと... エラーが発生したようです",
+  "correct_answer": "🎉 おめでとう、正解です！",
+  "congrats_for": "{{username}}さん、おめでとう",
+  "points": "ポイント",
+  "wrong_answer": "👀 不正解です、この問題に返信して再度試してください。"
+  "only_group": "このコマンドはグループでのみ使用できます。",
+  "only_admin_allowed": "グループの管理者のみがこのコマンドを使用できます。",
+  "failed_check_admin": "管理者ステータスの確認に失敗しました。"
+}

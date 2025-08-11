@@ -1,0 +1,20 @@
+{
+  "hello_world": "Hello World",
+  "active_game_notice": "There is still an active question! Reply to the question message to answer.",
+  "game_title": "🔥 *GUESS THE PICTURE!*",
+  "game_instruction": "📸 LOOK AT THE PICTURE ABOVE!",
+  "game_hint": "💡 *HINT:* {{hint}}",
+  "game_time_limit": "🕒 Time to answer: 60 seconds",
+  "game_reply_instruction": "💭 Reply to this message with your answer!",
+  "time_up": "⏰ Time's Up!\nAnswer: *{{answer}}*",
+  "try_again_button": "TRY AGAIN",
+  "fetch_error": "🪵 Oops... There seems to be an error",
+  "correct_answer": "🎉 Congratulations, you answered correctly!",
+  "congrats_for": "Congratulations to {{username}}",
+  "points": "Points",
+  "wrong_answer": "👀 Wrong answer, try again by replying to this question.",
+  
+  "only_group": "This command can only be used in a group.",
+  "only_admin_allowed": "Only group admins can use this command.",
+  "failed_check_admin": "Failed to check admin status."
+}

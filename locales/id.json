@@ -1,0 +1,21 @@
+{
+  "hello_world": "Halo Dunia",
+  "active_game_notice": "Masih ada soal aktif! Balas pesan soal tersebut untuk menjawab.",
+  "game_title": "🔥 *TEBAK GAMBAR!*",
+  "game_instruction": "📸 LIHAT GAMBAR DI ATAS!",
+  "game_hint": "💡 *PETUNJUK:* {{hint}}",
+  "game_time_limit": "🕒 Waktu menjawab: 60 detik",
+  "game_reply_instruction": "💭 Reply pesan ini dengan jawaban kamu untuk menjawab!",
+  "time_up": "⏰ Waktu Telah Berakhir!\nJawaban: *{{answer}}*",
+  "try_again_button": "MULAI LAGI",
+  "fetch_error": "🪵 Opss... Sepertinya ada kesalahan",
+  
+  "correct_answer": "🎉 Selamat kamu menjawab dengan benar!",
+  "congrats_for": "Selamat untuk {{username}}",
+  "points": "Point",
+  "wrong_answer": "👀 Jawaban salah, coba lagi balas pesan soal ini.",
+  
+  "only_group": "Perintah ini hanya bisa digunakan di grup.",
+  "only_admin_allowed": "Hanya admin grup yang boleh menggunakan perintah ini.",
+  "failed_check_admin": "Gagal memeriksa status admin."
+}

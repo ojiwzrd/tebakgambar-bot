@@ -1,0 +1,19 @@
+{
+  "hello_world": "Hallo Welt",
+  "active_game_notice": "Es gibt noch eine aktive Frage! Antworte auf die Fragenachricht, um zu antworten.",
+  "game_title": "🔥 *ERRATE DAS BILD!*",
+  "game_instruction": "📸 SCHAU DIR DAS BILD OBEN AN!",
+  "game_hint": "💡 *HINWEIS:* {{hint}}",
+  "game_time_limit": "🕒 Zeit zum Antworten: 60 Sekunden",
+  "game_reply_instruction": "💭 Antworte auf diese Nachricht mit deiner Antwort!",
+  "time_up": "⏰ Die Zeit ist abgelaufen!\nAntwort: *{{answer}}*",
+  "try_again_button": "NOCHMAL VERSUCHEN",
+  "fetch_error": "🪵 Hoppla... Es scheint ein Fehler aufgetreten zu sein",
+  "correct_answer": "🎉 Glückwunsch, du hast richtig geantwortet!",
+  "congrats_for": "Glückwunsch an {{username}}",
+  "points": "Punkte",
+  "wrong_answer": "👀 Falsche Antwort, versuche es erneut, indem du auf diese Frage antwortest.",
+  "only_group": "Dieser Befehl kann nur in einer Gruppe verwendet werden.",
+  "only_admin_allowed": "Nur Gruppenadministratoren können diesen Befehl verwenden.",
+  "failed_check_admin": "Fehler beim Überprüfen des Admin-Status."
+}

@@ -1,0 +1,19 @@
+{
+  "hello_world": "Bonjour le monde",
+  "active_game_notice": "Il y a encore une question active ! Répondez au message de la question pour répondre.",
+  "game_title": "🔥 *DEVINEZ L'IMAGE !*",
+  "game_instruction": "📸 REGARDEZ L'IMAGE CI-DESSUS !",
+  "game_hint": "💡 *INDICE:* {{hint}}",
+  "game_time_limit": "🕒 Temps pour répondre: 60 secondes",
+  "game_reply_instruction": "💭 Répondez à ce message avec votre réponse !",
+  "time_up": "⏰ Le temps est écoulé !\nRéponse: *{{answer}}*",
+  "try_again_button": "ESSAYEZ À NOUVEAU",
+  "fetch_error": "🪵 Oups... Il semble y avoir une erreur",
+  "correct_answer": "🎉 Félicitations, vous avez répondu correctement !",
+  "congrats_for": "Félicitations à {{username}}",
+  "points": "Points",
+  "wrong_answer": "👀 Mauvaise réponse, réessayez en répondant à cette question.",
+  "only_group": "Cette commande ne peut être utilisée que dans un groupe.",
+  "only_admin_allowed": "Seuls les administrateurs du groupe peuvent utiliser cette commande.",
+  "failed_check_admin": "Échec de la vérification du statut d'administrateur."
+}

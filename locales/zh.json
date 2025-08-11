@@ -1,0 +1,19 @@
+{
+  "hello_world": "你好世界",
+  "active_game_notice": "还有活跃的问题！回复问题消息来回答。",
+  "game_title": "🔥 *猜图片！*",
+  "game_instruction": "📸 看上面的图片！",
+  "game_hint": "💡 *提示:* {{hint}}",
+  "game_time_limit": "🕒 回答时间: 60秒",
+  "game_reply_instruction": "💭 回复此消息提交你的答案！",
+  "time_up": "⏰ 时间到！\n答案: *{{answer}}*",
+  "try_again_button": "再试一次",
+  "fetch_error": "🪵 哎呀... 似乎出错了",
+  "correct_answer": "🎉 恭喜你答对了！",
+  "congrats_for": "恭喜{{username}}",
+  "points": "积分",
+  "wrong_answer": "👀 回答错误，请回复此问题再试一次。",
+  "only_group": "",
+  "only_admin_allowed": "",
+  "failed_check_admin": ""
+}

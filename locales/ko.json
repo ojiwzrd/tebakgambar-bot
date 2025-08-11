@@ -1,0 +1,19 @@
+{
+  "hello_world": "안녕하세요 세계",
+  "active_game_notice": "아직 활성화된 문제가 있습니다! 문제 메시지에 답장하여 답하세요.",
+  "game_title": "🔥 *사진 맞추기!*",
+  "game_instruction": "📸 위의 사진을 보세요!",
+  "game_hint": "💡 *힌트:* {{hint}}",
+  "game_time_limit": "🕒 답변 시간: 60초",
+  "game_reply_instruction": "💭 이 메시지에 답장하여 답하세요!",
+  "time_up": "⏰ 시간이 종료되었습니다!\n정답: *{{answer}}*",
+  "try_again_button": "다시 시도",
+  "fetch_error": "🪵 이런... 오류가 발생한 것 같습니다",
+  "correct_answer": "🎉 축하합니다, 정답입니다!",
+  "congrats_for": "{{username}}님, 축하합니다",
+  "points": "포인트",
+  "wrong_answer": "👀 틀렸습니다, 이 문제에 답장하여 다시 시도하세요.",
+  "only_group": "이 명령어는 그룹에서만 사용할 수 있습니다.",
+  "only_admin_allowed": "그룹 관리자만 이 명령어를 사용할 수 있습니다.",
+  "failed_check_admin": "관리자 상태 확인에 실패했습니다."
+}
