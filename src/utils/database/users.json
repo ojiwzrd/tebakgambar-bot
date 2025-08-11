@@ -1,30 +1,3 @@
 {
-  "users": [
-    {
-      "id": 7357437878,
-      "username": "mewzrd",
-      "first_name": "𝕺𝖏𝖎𝖜𝖟𝖗𝖉_",
-      "last_name": "",
-      "photo_url": "https://api.telegram.org/file/bot8272460260:AAG9xI6uysex2cSt0bX3wluGOA-9DWuZAko/photos/file_1.jpg",
-      "lang": "id",
-      "game_data": {
-        "tebakgambar": {
-          "score": 37
-        }
-      }
-    },
-    {
-      "id": 7875331076,
-      "username": "jastiporgckep",
-      "first_name": ".§əĉœŋð l·lɛæð",
-      "last_name": "",
-      "photo_url": "https://api.telegram.org/file/bot8272460260:AAG9xI6uysex2cSt0bX3wluGOA-9DWuZAko/photos/file_2.jpg",
-      "lang": "id",
-      "game_data": {
-        "tebakgambar": {
-          "score": 6
-        }
-      }
-    }
-  ]
+  "users": []
 }
